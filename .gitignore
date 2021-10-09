@@ -24,3 +24,6 @@ berezovskiy-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Some private environment variables
+.env
